@@ -32,7 +32,7 @@
 | AxionOS | AlphaDroid |
 | RisingOSS Revived | Black Iron Project |
 |  | Cherish OS |
-|  | CrDroid |
+|  | [CrDroid](https://github.com/Mi-Apollo/custom_rom_releases/releases/download/crdroid-12.2/crDroidAndroid-16.0-20251015-apollo-v12.2.zip) |
 |  | Derpfest |
 |  | EvolutionX |
 |  | InfinityX |
