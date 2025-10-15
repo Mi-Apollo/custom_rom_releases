@@ -30,7 +30,7 @@
 | **OFFICIAL** | **UNOFFICIAL** |
 |---------------|----------------|
 | [AxionOS](https://github.com/AxionAOSP-devices/android_device_xiaomi_apollo/releases/download/v2.1/axion-2.1-NIGHTLY-20251021-OFFICIAL-VANILLA-apollo.zip) | AlphaDroid |
-| RisingOSS Revived | Black Iron Project |
+| [RisingOSS Revived](https://github.com/Mi-Apollo/custom_rom_releases/releases/download/rising-8.1.1/RisingOS_Revived-8.1.1-251017-1309-VANILLA-OFFICIAL-apollo-ota.zip) | Black Iron Project |
 |  | Cherish OS |
 |  | [CrDroid](https://github.com/Mi-Apollo/custom_rom_releases/releases/download/crdroid-12.2/crDroidAndroid-16.0-20251015-apollo-v12.2.zip) |
 |  | Derpfest |
