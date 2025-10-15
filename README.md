@@ -34,7 +34,7 @@
 |  | Cherish OS |
 |  | [CrDroid](https://github.com/Mi-Apollo/custom_rom_releases/releases/download/crdroid-12.2/crDroidAndroid-16.0-20251015-apollo-v12.2.zip) |
 |  | Derpfest |
-|  | EvolutionX |
+|  | [EvolutionX](https://github.com/Mi-Apollo/custom_rom_releases/releases/download/evox-11.3/EvolutionX-16.0-20251015-apollo-11.3-Vanilla-Unofficial.zip) |
 |  | InfinityX |
 |  | LMODroid |
 |  | Lunaris OS |
