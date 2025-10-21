@@ -37,7 +37,7 @@
 |  | [EvolutionX](https://github.com/Mi-Apollo/custom_rom_releases/releases/download/evox-11.3/EvolutionX-16.0-20251015-apollo-11.3-Vanilla-Unofficial.zip) |
 |  | [InfinityX](https://github.com/Mi-Apollo/custom_rom_releases/releases/download/inf-3.3/Project_Infinity-X-3.3-apollo-20251019-2136-VANILLA-UNOFFICIAL.zip) |
 |  | LMODroid |
-|  | Lunaris OS |
+|  | [Lunaris OS](https://github.com/Mi-Apollo/custom_rom_releases/releases/download/luna-3.4/Lunaris-AOSP-apollo-Community-3.4-Vanilla-2025102109.zip) |
 |  | Project Matrixx |
 |  | Mist OS |
 |  | Pixel OS |
