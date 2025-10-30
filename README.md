@@ -51,7 +51,6 @@
 - Dolby 
 - ViPER
 - Per-App Refresh Rate
-- High Touch Polling Rate
 - Many more...
 
 ---
