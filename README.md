@@ -42,7 +42,7 @@
 |  | Mist OS |
 |  | Pixel OS |
 |  | Project PixelAge |
-|  | Voltage OS |
+|  | [Voltage OS](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/vos-5.2) |
 |  | YAAP |
 
 ---
