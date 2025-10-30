@@ -39,7 +39,7 @@
 |  | LMODroid |
 |  | [Lunaris OS](https://github.com/Mi-Apollo/custom_rom_releases/releases/download/luna-3.4/Lunaris-AOSP-apollo-Community-3.4-Vanilla-2025102109.zip) |
 |  | [Project Matrixx](https://github.com/Mi-Apollo/custom_rom_releases/releases/download/mtrx-11.9/Matrixx-v11.9.0-Unofficial-apollo-Vanilla-202510211820.zip) |
-|  | Mist OS |
+|  | [Mist OS](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/mist-4.2) |
 |  | Pixel OS |
 |  | Project PixelAge |
 |  | [Voltage OS](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/vos-5.2) |
