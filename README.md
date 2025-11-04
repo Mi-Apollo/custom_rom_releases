@@ -36,7 +36,6 @@
 |  | [Derpfest](https://pixeldrain.com/u/UHpgiCHV) |
 |  | [EvolutionX](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/evox-11.3) |
 |  | [InfinityX](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/inf-3.3) |
-|  | LMODroid |
 |  | [Lunaris OS](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/luna-3.5) |
 |  | [Project Matrixx](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/mtrx-11.9) |
 |  | [Mist OS](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/mist-4.2) |
