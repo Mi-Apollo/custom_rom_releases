@@ -29,16 +29,16 @@
 
 | **OFFICIAL** | **UNOFFICIAL** |
 |---------------|----------------|
-| [AxionOS](https://github.com/AxionAOSP-devices/android_device_xiaomi_apollo/releases/download/v2.1/axion-2.1-NIGHTLY-20251021-OFFICIAL-VANILLA-apollo.zip) | AlphaDroid |
-| [RisingOSS Revived](https://github.com/Mi-Apollo/custom_rom_releases/releases/download/rising-8.1.1/RisingOS_Revived-8.1.1-251017-1309-VANILLA-OFFICIAL-apollo-ota.zip) | Black Iron Project |
+| [AxionOS](https://github.com/AxionAOSP-devices/android_device_xiaomi_apollo/releases/tag/v2.1) | AlphaDroid |
+| [RisingOSS Revived](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/rising-8.1.1) | Black Iron Project |
 |  | Cherish OS |
-|  | [CrDroid](https://github.com/Mi-Apollo/custom_rom_releases/releases/download/crdroid-12.2/crDroidAndroid-16.0-20251015-apollo-v12.2.zip) |
+|  | [CrDroid](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/crdroid-12.2) |
 |  | [Derpfest](https://pixeldrain.com/u/UHpgiCHV) |
-|  | [EvolutionX](https://github.com/Mi-Apollo/custom_rom_releases/releases/download/evox-11.3/EvolutionX-16.0-20251015-apollo-11.3-Vanilla-Unofficial.zip) |
-|  | [InfinityX](https://github.com/Mi-Apollo/custom_rom_releases/releases/download/inf-3.3/Project_Infinity-X-3.3-apollo-20251019-2136-VANILLA-UNOFFICIAL.zip) |
+|  | [EvolutionX](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/evox-11.3) |
+|  | [InfinityX](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/inf-3.3) |
 |  | LMODroid |
-|  | [Lunaris OS](https://github.com/Mi-Apollo/custom_rom_releases/releases/download/luna-3.4/Lunaris-AOSP-apollo-Community-3.4-Vanilla-2025102109.zip) |
-|  | [Project Matrixx](https://github.com/Mi-Apollo/custom_rom_releases/releases/download/mtrx-11.9/Matrixx-v11.9.0-Unofficial-apollo-Vanilla-202510211820.zip) |
+|  | [Lunaris OS](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/luna-3.5) |
+|  | [Project Matrixx](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/mtrx-11.9) |
 |  | [Mist OS](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/mist-4.2) |
 |  | Pixel OS |
 |  | Project PixelAge |
