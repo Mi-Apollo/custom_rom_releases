@@ -32,9 +32,9 @@
 | [AxionOS](https://github.com/AxionAOSP-devices/android_device_xiaomi_apollo/releases/tag/v2.1) | AlphaDroid |
 | [RisingOSS Revived](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/rising-8.1.1) | Black Iron Project |
 |  | Cherish OS |
-|  | [CrDroid](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/crdroid-12.2) |
+|  | [CrDroid](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/crdroid) |
 |  | [Derpfest](https://pixeldrain.com/u/UHpgiCHV) |
-|  | [EvolutionX](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/evox-11.3) |
+|  | [EvolutionX](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/evox) |
 |  | [InfinityX](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/inf-3.3) |
 |  | [Lunaris OS](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/luna-3.5) |
 |  | [Project Matrixx](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/mtrx-11.9) |
