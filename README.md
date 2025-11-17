@@ -35,13 +35,13 @@
 |  | [CrDroid](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/crdroid) |
 |  | [Derpfest](https://pixeldrain.com/u/UHpgiCHV) |
 |  | [EvolutionX](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/evox) |
-|  | [InfinityX](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/inf-3.3) |
-|  | [Lunaris OS](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/luna-3.5) |
-|  | [Project Matrixx](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/mtrx-11.9) |
-|  | [Mist OS](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/mist-4.2) |
+|  | [InfinityX](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/infinityx) |
+|  | [Lunaris OS](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/lunaris) |
+|  | [Project Matrixx](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/matrixx) |
+|  | [Mist OS](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/mist) |
 |  | Pixel OS |
 |  | Project PixelAge |
-|  | [Voltage OS](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/vos-5.2) |
+|  | [Voltage OS](https://github.com/Mi-Apollo/custom_rom_releases/releases/tag/voltage) |
 |  | YAAP |
 
 ---
